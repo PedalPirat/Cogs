@@ -21,6 +21,13 @@ Inputs like buttons and connectors for brake lever sensors like the [Magura MT5e
 
 ## Modules
 ### Custom
+#### [Bridge](https://github.com/PedalPirat/comet-Navigator)
+Central Micocontroller with Dock for a bike computer and a lot of Sensors
+#### [HandleWarmer](https://github.com/PedalPirat/Cog-HandleWarmer)
+Heated handlebar grips
+
+#### Lights
+
 ### Existing
 #### [SRAM/Quarq TyreWiz 2.0🔭](https://www.sram.com/de/quarq/models/wh-trwz-e1)
 - Chain: ANT+, BTLE
