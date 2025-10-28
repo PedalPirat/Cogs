@@ -41,7 +41,7 @@ Heated handlebar grips
 - Function
   - 🔭 Radar
   - 🏮 Light
-  - 
+
 #### [Bikone BB Torque Sensor](https://www.bikone.com/bottombracket-torque-sensors/)
 - Chain: CAN
 - Power: 12V
@@ -55,3 +55,9 @@ Heated handlebar grips
 - Function
   - 🏮 Light
   - 🔋 Powerbank
+
+#### [e2ip/STm EDGE AI Sensing Kit](https://shop.e2ip.com/)
+- Chain: USB
+- Power: USB
+- Function
+  - 🔭 Camera
