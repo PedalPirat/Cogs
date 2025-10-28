@@ -19,3 +19,32 @@ The PowederKeg is the Power Controller for the System, controlling the Energy de
 Inputs like buttons and connectors for brake lever sensors like the [Magura MT5e](https://www.bike-components.de/de/Magura/MT5e-Carbotecture-Scheibenbremse-p45434/)
 
 
+## Modules
+### Custom
+### Existing
+#### [SRAM/Quarq TyreWiz 2.0🔭](https://www.sram.com/de/quarq/models/wh-trwz-e1)
+- Chain: ANT+, BTLE
+- Power: Battery
+- Function:
+  - 🔭 Tyre Pressure
+  - 
+#### [Garmin Varia eRTL615](https://www.garmin.com/en-US/p/874099/)
+- Chain: ANT+, BTLE
+- Power: 12V
+- Function
+  - 🔭 Radar
+  - 🏮 Light
+  - 
+#### [Bikone BB Torque Sensor](https://www.bikone.com/bottombracket-torque-sensors/)
+- Chain: CAN
+- Power: 12V
+- Function
+  - 🔭 Power
+  - 🔭 Crank Position
+ 
+#### [Magene AT1600](https://www.magene.com/en/bike-lights/208-at1200-at1600-smart-bike-headlight.html)
+- Chain: ANT+, USB
+- Power: USB-PD
+- Function
+  - 🏮 Light
+  - 🔋 Powerbank
