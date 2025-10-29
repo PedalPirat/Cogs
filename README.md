@@ -29,7 +29,7 @@ Heated handlebar grips
 #### Lights
 
 ### Existing
-#### [SRAM/Quarq TyreWiz 2.0🔭](https://www.sram.com/de/quarq/models/wh-trwz-e1)
+#### [SRAM/Quarq TyreWiz 2.0](https://www.sram.com/de/quarq/models/wh-trwz-e1)
 - Chain: ANT+, BTLE
 - Power: Battery
 - Function:
