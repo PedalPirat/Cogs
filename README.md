@@ -34,7 +34,12 @@ Heated handlebar grips
 - Power: Battery
 - Function:
   - 🔭 Tyre Pressure
-  - 
+ 
+#### [SRAM/RockShox Reverb AXS XPLR](https://www.sram.com/de/rockshox/models/sp-rvb-xplr-a1)
+- Chain: ANT+
+- Power: Battery/ [Connection Cable](https://www.bike24.de/p1834215.html)
+- Function
+  - 🔧 Dropper Post
 #### [Garmin Varia eRTL615](https://www.garmin.com/en-US/p/874099/)
 - Chain: ANT+, BTLE
 - Power: 12V
